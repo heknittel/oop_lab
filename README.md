@@ -1,3 +1,5 @@
 # OOP Lab
 
 Hello :)
+
+Bye :(
